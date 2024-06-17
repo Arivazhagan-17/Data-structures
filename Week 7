@@ -14,7 +14,7 @@ struct Queue
 { int ele;
   struct Queue *next;};
 typedef struct Queue q;
-q *f=NULL;
+q *f=NULL; 
 q *r=NULL;
 
 void enqueue(int x)
