@@ -11,7 +11,7 @@ i)Open Addressing:
 #include <stdlib.h>
 #include <stdbool.h>
 
-#define SIZE 10
+#define SIZE 10 
 
 struct HashNode {
     int key;
